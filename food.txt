@@ -1,0 +1,6 @@
+1 BigM 10.40
+2 Cheeseburger 9.45
+3 McChicken 8.95
+4 Coke 4.65
+5 Ayam_Bucket 67.23
+6 Nasi_Kari_Atuk 10.66
