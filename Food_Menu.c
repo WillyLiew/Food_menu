@@ -4,7 +4,7 @@
 int main()
 {
     int item=1,count=0,result,i,num,total=0,choice=1,discount,vir=0;
-    int a[51]={0};
+    int a[50]={0};
     char desc[50],percent='%';
     char nll[]={"0"};                                               //used in string compare to determine whether user’s input is 0
     float price,subtotal=0,tdiscount,cash;
